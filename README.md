@@ -1,4 +1,4 @@
-# Análise de sentimentos de manchetes brasileiras
+# Análise de sentimentos em manchetes brasileiras
 
 - Disciplina Computação Afetiva 
 - Prof. Dra. Paula Dornhofer Paro Costa 
@@ -23,7 +23,7 @@ Entretando, para executá-lo em sua máquina local, você precisará instalar o Pyth
 
 - pip install -r requirements.txt
 
-4. Como o projeto utiliza vários recursos da biblioteca NLTK, algumas destas devem ser instaladas através de um terminal python, utilizando-se o comando:
+4. Como o projeto utiliza vários recursos da biblioteca NLTK, alguns destes devem ser instaladas através de um terminal python, utilizando-se o comando:
 
 - nltk.download()
 
